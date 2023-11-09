@@ -1,0 +1,26 @@
+{
+  "name": "Lura Welch",
+  "age": 32,
+  "address": {
+    "street": "Amole Pike",
+    "city": "Donkembu",
+    "state": "AL",
+    "zip": "10632"
+  },
+  "contact": {
+    "phone": "(280) 262-4391",
+    "servicePhone": "800442721"
+  },
+  "birthday": "1979-03-08T13:02:37.958Z",
+  "ip": "118.167.244.133",
+  "foo": "bar",
+  "profile": {
+    "about": "Eko esipehu le si dille piil kifupsuw bamodbe retfos sufur ciwukkaf az ziw zepotot. Bi ak hulmur kobtefof hu enager san sij sipa jubirah detiba cedsufju mirreb azu pa wukar. Uvororta aruhop ditis nokjo nusisa imoribta jef ziadu ru deode do ziitvic rokfof tergawsup fohip.",
+    "bio": "Agbauj omaule ati rawu tisuc rap cedebih vig ma jonfo ehedokse pa vo ub. Gidmize lirbeplad figudzaf im kico icpuzhu se murezawu udewu luge cek hogmaz sebiwuw butpap boowuz sa puk. Bakibhe ewo hefapot gusgi kebe vawecri coizo evfa zori gez bi nodeponu pehpu boiwhif."
+  },
+  "apiKey": "e6e58f1672fede85f72ed85a4e2eac355fb92727f0703e970583d09a3d0a3e53",
+  "currency": {
+    "code": "SCR",
+    "name": "Seychelles Rupee"
+  }
+}
