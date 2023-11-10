@@ -1,0 +1,26 @@
+{
+  "name": "Blanche Norton",
+  "age": 30,
+  "address": {
+    "street": "Havec Avenue",
+    "city": "Tusoud",
+    "state": "FL",
+    "zip": "02167"
+  },
+  "contact": {
+    "phone": "(484) 932-2062",
+    "servicePhone": "800655969"
+  },
+  "birthday": "1969-05-06T23:36:31.246Z",
+  "ip": "36.53.30.20",
+  "foo": "bar",
+  "profile": {
+    "about": "Lup hiruro lejebo so jomamhak paav tocivar ocap towezo sat nicifvo cuh rujwu pesomuv. Lase vide doc eb ovelirac viwesow re bar mozluk ha no inutojek zackeda lu siduv koze hejjuj. Feju wel babuam dozju kertu ce dawhu zak so govhe walun cekub ceon mafori pumcoan gepa sukigi.",
+    "bio": "Rizdopi mi mug rogigi ekeava sa pej ufliv tes ema biavo ule uv va pe duh laez sag. Urere kol kalojoh vehasukoj jawiw ivi sum etuvilcop wej vijme sikhas ju ikjadzu abwa mez pewoez cilodu. Puk sejaow hubodeh lokudse su ehje ceknoej fuh wahle huseok fob ahkaot. Fi dafuf aru duvulgid ziotawup sifometu deav pidsev kawatil mu vaom daoc ta. Ciec sew ni ezlufmi giwdubo ifwedihe tispov pipoja dikanvow kig jesago azijud viglabcam lele wos ceunein. Orvomjal afe fogij zurumga dolalej ujizore fo ig mo hi ibolad hibmu luhvul izhi."
+  },
+  "apiKey": "5ee2a4574a37338cef13dda311043efeaf73b863b88d474ff25e0b97cfc772f1",
+  "currency": {
+    "code": "USD",
+    "name": "United States Dollar"
+  }
+}
