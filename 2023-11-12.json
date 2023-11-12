@@ -1,0 +1,26 @@
+{
+  "name": "Glenn Douglas",
+  "age": 40,
+  "address": {
+    "street": "Najpof Path",
+    "city": "Tedubpa",
+    "state": "PA",
+    "zip": "80902"
+  },
+  "contact": {
+    "phone": "(667) 732-7324",
+    "servicePhone": "800671946"
+  },
+  "birthday": "1990-06-05T06:52:41.238Z",
+  "ip": "145.201.170.37",
+  "foo": "bar",
+  "profile": {
+    "about": "Gokgu uhe dulol ciohi guwe obce moro if wos wacze amu tog areizaza. Zorej cippe manu va otanip pujahuvi kasej lehkeozi bivoghe dashikis sihuv pus puisa bukcot luv coderaove latufafi uce. Fauccu sa wempic so rebid fon ihi vadaj edopef hok te bamuble zuki dopi. Dot pebu waz kataja aco izof cusazhir avaadca fi apan oz disemefa.",
+    "bio": "Da no vezalce ofu omgekwi wusigu leokogoc vatresra vi fisru asoveg bifmilolu gogil. Imukites evlu ceda vusan dutawnug pu jijik ujlu utluhaz te piri rak za cimuh ci re. Goecbe muzovu he ek ip kidriiha reb civla olaufir ingoz puutefol telsu ivujoko."
+  },
+  "apiKey": "0c582443da53815f51076a85f7a38145ad465596489993f822e97e72dbb01878",
+  "currency": {
+    "code": "MVR",
+    "name": "Maldives (Maldive Islands) Rufiyaa"
+  }
+}
