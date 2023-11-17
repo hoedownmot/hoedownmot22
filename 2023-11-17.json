@@ -1,0 +1,26 @@
+{
+  "name": "Phillip Green",
+  "age": 29,
+  "address": {
+    "street": "Seppo Circle",
+    "city": "Seopnem",
+    "state": "LA",
+    "zip": "02220"
+  },
+  "contact": {
+    "phone": "(871) 226-8013",
+    "servicePhone": "800344571"
+  },
+  "birthday": "1987-02-01T01:15:51.795Z",
+  "ip": "167.64.168.114",
+  "foo": "bar",
+  "profile": {
+    "about": "Taapu ihe ko bedgize fiwfo zur ik rupahnuf te ordikeb karvoz rezuvrob eked kijifor lurlot on bed bawa. Raprake fod ja dikoz ipihafel su huj nahosagu goh zosa nijoc uzdupbaj gosidici feg. Awe nug ha sufuavi jijganok neti dage sup wi kafnazozo ce ilawilibo ze. Evtoppo voaj veptaw fow holuscil bijik gi tedo juzsof sesi volketmat bifa wabfa etpalam vu dol uweoki peh.",
+    "bio": "Suguga gufibis utfo adwolup we icifu cufvo pevrev eta pab caj gowgoep su sihudbed wok vissuw. Ukosave kulsutij ji hi nipcazrap rut tijlo rovfez ivune jormofe hozor cakacow lafmumwi ewtodma. Bikam dopudi sem honerwit jan sub beijdah vujcadake zecga rig lasakde zazu epvivvat moksituso tiohe in hif lo. Cisanje botonur puzewlur di dufka nip wadu getgawew foagle wiw buveko udikew bos kacgi gol. Watcon asa riez gej hew kab ku iv gulav kav fafwabi jul susfa."
+  },
+  "apiKey": "77cd8c02ff66baaa40bd996db81f18ec3346b5b05aba61c7889363fa42d9dbc7",
+  "currency": {
+    "code": "HRK",
+    "name": "Croatia Kuna"
+  }
+}
