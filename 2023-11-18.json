@@ -1,0 +1,26 @@
+{
+  "name": "Lucile Lyons",
+  "age": 51,
+  "address": {
+    "street": "Meckej River",
+    "city": "Lolorom",
+    "state": "DE",
+    "zip": "22791"
+  },
+  "contact": {
+    "phone": "(902) 513-9699",
+    "servicePhone": "800114438"
+  },
+  "birthday": "1976-07-24T08:04:09.304Z",
+  "ip": "125.122.167.232",
+  "foo": "bar",
+  "profile": {
+    "about": "Fioj fovludfi zognavej rektev anuolbe fagve kiheluuda nawap sahisi peuf ujzomag pelavko orilik. Venneszi kojar gesjopmor ohaafenav ubme zoset jo gickolit foosuruh men heabo deh bistujre. Inihoig tosoj ew awaku teppos guk wug nusu peob am tap epmicali.",
+    "bio": "Obizug mu kuap bokda rusafcod miher zu canfuw tupibit vet ihasoku oh. Tahtutos ag folep vedgu zopliar fuspaguw mazvusif lip hurobmuv kobiz keme nugvud oboewi vi. Mav ruse hozhik jupelefu tuvgem arwizjug ep kibup voriwsak jek kitle jabtikuh roes soj mu fafargit ribwahco howujpu."
+  },
+  "apiKey": "f97286a93064fd0113ef18695acf4230dea58f22da668f091d38450b6f3f02aa",
+  "currency": {
+    "code": "BGN",
+    "name": "Bulgaria Lev"
+  }
+}
