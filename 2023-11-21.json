@@ -1,0 +1,26 @@
+{
+  "name": "Cornelia Green",
+  "age": 23,
+  "address": {
+    "street": "Nevaw Loop",
+    "city": "Izvuene",
+    "state": "RI",
+    "zip": "44666"
+  },
+  "contact": {
+    "phone": "(809) 624-5959",
+    "servicePhone": "800375277"
+  },
+  "birthday": "1979-05-16T02:47:08.316Z",
+  "ip": "219.110.133.171",
+  "foo": "bar",
+  "profile": {
+    "about": "Uhuwopi pi retoz do ga lecbudu uhuli ek afuole vuv ofoba lakev osahumu za ehusuru ofejavwi. Vanwuluvo luchaghoh dapadim tuj cimdoezo duuloge lajtud lus pe aka nucin coibeg sizwelo gu otenu. Hahi uca su gake jofcoec ipihier fev vafne hi puazpo jescidvof ikfih hahog am vu zagif zarvere. Tefrevil zellatu wikmafus wal ugoki cegipoik eme cud wur zegawdu sizopro tivhuj zuvzathec apcuod soz bat pud.",
+    "bio": "Jo wup ce zerta to tehubka kepuzi kawbiwi nehahav ropico woj av zajte. Ilu suihpaz pub goko mekuva cahulmar iho miglu fe ruh edo sa ofni repve. Teer jughirje ihko coruwi gemnojcij loireh medi gerjik feg sarju vabhikoc fog."
+  },
+  "apiKey": "a23c94cd98dc3c92479657a8d6537d8888fc52d77e0564600b4c42c297c17f7a",
+  "currency": {
+    "code": "BRL",
+    "name": "Brazil Real"
+  }
+}
