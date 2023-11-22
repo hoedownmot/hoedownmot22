@@ -1,0 +1,26 @@
+{
+  "name": "Hunter Mendoza",
+  "age": 25,
+  "address": {
+    "street": "Sodu Highway",
+    "city": "Lieptow",
+    "state": "MS",
+    "zip": "64287"
+  },
+  "contact": {
+    "phone": "(211) 575-8220",
+    "servicePhone": "800393635"
+  },
+  "birthday": "1977-05-13T06:30:30.380Z",
+  "ip": "32.147.250.97",
+  "foo": "bar",
+  "profile": {
+    "about": "Wabeka mu ima jihilzi hahri mac nevzatze tome ca puf latur oci duz licesabu varla zo napob koh. Pif bomrob dewefilo ki unucu atu not wiocga gavewadip muvdemom rup adeab cezaz. Epidup ciz co bumral ebi webuewu nitkuniz omrew zawzawer non casfajad nol uwpeh decezuz ra zodoh.",
+    "bio": "Dini irawak fadidcu foge lavcic biglaw bapohdob pudlak wom eteebna fippop kimhu feb fa hokca teri abwip. Juajecot ohovul lansu jopoje kowe loezmu jozes kizinjiv wibiv madmowasa peg pugil ejiipsip puzseebe sikge. Idjaj rocnewug kovsej to bavgo deopo lihoc jo bidel pifcav gimzof bezrot. Tag belup ajazeulu epne uhavuj tecuh kod lu teuf pihibjo ickozho awukosa lazbu vucehu la fichoc tam racpi."
+  },
+  "apiKey": "331095ffbffa9cfe8f349531f01a87b036a78b24583659db68fb95e42950c541",
+  "currency": {
+    "code": "ETB",
+    "name": "Ethiopia Birr"
+  }
+}
