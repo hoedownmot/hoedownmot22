@@ -1,0 +1,26 @@
+{
+  "name": "Dennis Hart",
+  "age": 59,
+  "address": {
+    "street": "Fupim Street",
+    "city": "Deduswis",
+    "state": "NE",
+    "zip": "77932"
+  },
+  "contact": {
+    "phone": "(388) 390-2899",
+    "servicePhone": "800215736"
+  },
+  "birthday": "1983-01-15T04:49:00.479Z",
+  "ip": "244.111.220.157",
+  "foo": "bar",
+  "profile": {
+    "about": "Omnod cedoeg do siv kogeveh wek sevoki cik zewe wijowi zupukut ga ga. Ten jeppo mokvok wejwipe rojveduta loc isehimer sipucgiz abpujo va luwugola ma ukkuwfe dusar bom. Coztatzej lejiw zivovam res su durun tosvolhid wezi nabreli kuzov suduve isu. Pabos kuh boklo wehfetgo ifgeeta celjohi jibo co elbe vauz neb bujuuto.",
+    "bio": "Culi od tajred tuf marla uhhoj up paerzo el zu jenzuz jan ha cameduj vokpabi burici. Izafas emoufmu ruolu anari vo ruuhu veahacum po avu lampaw ajecemhe ebda fijfehe zobenorik ub toc. Ojtadmej runo ru ocza opjis enki vulkojnad zi gehuh toz sato di gobehuz tihga tefujhun wuz oragiduj. Koamu vuckar ohozajof acbu uw nipomi urcotlis ri jodeba epbu so la somihwoh. Wiwwilfa jo ab zen gatwofa ga losib zu deb unofaz ratekop ilpuku. Ruk bone bo baw uhatub fudu wivo ku pedro uzamazven afi vo. Ije ped rulzec pifneffoz lujdov kowiheb muh zelu ju ucati adga rom ucaloru net afu pa dac evuuzge."
+  },
+  "apiKey": "bff1d53498771f507c41074d99fafde46fbfe3fc06d4820eb3d452844503d19d",
+  "currency": {
+    "code": "GHS",
+    "name": "Ghana Cedi"
+  }
+}
