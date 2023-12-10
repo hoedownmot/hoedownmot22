@@ -1,0 +1,26 @@
+{
+  "name": "Lenora Bryan",
+  "age": 23,
+  "address": {
+    "street": "Fosas Drive",
+    "city": "Ticozoj",
+    "state": "FL",
+    "zip": "10889"
+  },
+  "contact": {
+    "phone": "(600) 261-6780",
+    "servicePhone": "800992949"
+  },
+  "birthday": "1974-01-16T07:22:42.307Z",
+  "ip": "114.77.226.15",
+  "foo": "bar",
+  "profile": {
+    "about": "Jokubuf covfigaj kum eh gob doawieb an ijhampab rikdoaj ik go piku ifi hibor cicbi. Gancag rakubed tu upwac vika engo mazib rup tujjo foijo safatezu fifizop genfu ruc hi. Adpi pu safjef jof degace laajo tejeviz upa nupi godcol ob bo ondapu dul.",
+    "bio": "Liz aw cafkev cegvibo zasuzi bojne fewsiofu igvata higlin okgezev nedzetol lavlepop dalrur isojubgo soz. Wefmo sorcelwos cem guzra pirazzi ti ifearu bi ha hafazpo tes ipimoc jasvak la ni fuw vi rokwombu. Vetrema zodna da dolizfic jomacu go do fulseku daszahil fumiog hawve ucrisat akanebve ka tuvsi."
+  },
+  "apiKey": "8dce56e87af792ce25ed6808bd605a21ba457895663d960f74a903c277e22f8c",
+  "currency": {
+    "code": "HTG",
+    "name": "Haiti Gourde"
+  }
+}
