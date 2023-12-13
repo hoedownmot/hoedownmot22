@@ -1,0 +1,26 @@
+{
+  "name": "Estella Houston",
+  "age": 33,
+  "address": {
+    "street": "Osimo Place",
+    "city": "Mocago",
+    "state": "DE",
+    "zip": "86291"
+  },
+  "contact": {
+    "phone": "(866) 355-2756",
+    "servicePhone": "800551682"
+  },
+  "birthday": "1984-07-05T01:38:19.843Z",
+  "ip": "3.187.250.36",
+  "foo": "bar",
+  "profile": {
+    "about": "Su forpulike udaetade kodwe sil juvek boocu kopupe olejogzir pa gitbafha dog pegascul. Wuwuhlud dad ekeevja libifazu niliv puhjuvmi ni ag udeik le cirkoges cuebiru vatlacu. Meolu zec vucucja haroun gagifuwiw hid esbuj sutak vacu cu hozkiv tuvfar eknap.",
+    "bio": "Mujtam ojaha uvi fez mo ju cuc dathi wid ta ge lavwupan cabjozded umhi bi cekascac bevpuh pivo. Haj hisilap forem kos onusija menuh ilfulit lu eka kabovad vonelwo fozec. Ko osu za lod pi cov ubu zazduv cu nejis jebig niji gofabgol. Wif vepja rucpe ho wa aciseveta hotuome jemukuj ke fajesaja hadje uvlik afodes nabrugde vukedfi."
+  },
+  "apiKey": "eb8313bbce8afa504116c2265acf35e895864372a9184a6d869b849b775d0705",
+  "currency": {
+    "code": "BYR",
+    "name": "Belarus Ruble"
+  }
+}
