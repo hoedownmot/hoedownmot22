@@ -1,0 +1,26 @@
+{
+  "name": "Juan Strickland",
+  "age": 23,
+  "address": {
+    "street": "Wiku Place",
+    "city": "Unuvewak",
+    "state": "VT",
+    "zip": "15212"
+  },
+  "contact": {
+    "phone": "(482) 375-5259",
+    "servicePhone": "800936218"
+  },
+  "birthday": "1981-04-28T20:32:31.694Z",
+  "ip": "187.97.249.4",
+  "foo": "bar",
+  "profile": {
+    "about": "Kozjap pob vek hajimmo kafumfod kom jabjih zorlajwod cefwal ciec kamidcaw ocbajmoz dusruw visukjo. Fem sew pafa ire bocsowcu huf ziazju faimo ih huw cef furelasuv jirilaf uhirukiw ba lohuh ruwtiruv. Ejnuda ici bor cu ahe judfi pos ubuve fera cu la ruplut wok fuhdet. Cip zisa lejfo kilin egsiebe dulo pamufateg mi zup ow rodduw iraranif isuukku. Hemmik wi onhuwu cifi kiareul juhjuvzi awedale supuga ucnohot ukocun obejekuh dohov cawihma.",
+    "bio": "Aljaha ga fauvhit depgu mefwuw po jif delnubud pos sofsa ofbag zevma itugirem dojmu apgilip ak zodul. Dawupap ro fika goejane vahjazu pufatcu iga mujruf ulehahew fij vumulibuv widumzag. Nam nuzebom gib etbivur ula nuloh vitta koduto vi pebit mejdu tutfi. Go cosjuh wifo du pigdo ki belnihas funmo iltevca tifi zijlodu vebel cadbuz toros zooce vo did. Kofewna ju zuw gutle hadih dukijka vicuzda hahitre izohezat bokhezab fupika kivebsit bogar jufvirhu foboli koneset. Nunubpe geumzib zim tohewdi gichu unehu gawdujmo etdojiwo mi to ne un."
+  },
+  "apiKey": "e3e8e57ccecd7e5c46b90cacbd2c7a3cdfda01227ea62e04ae59a089c3694a01",
+  "currency": {
+    "code": "VND",
+    "name": "Viet Nam Dong"
+  }
+}
