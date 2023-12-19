@@ -1,0 +1,26 @@
+{
+  "name": "Ada Soto",
+  "age": 42,
+  "address": {
+    "street": "Refadi Manor",
+    "city": "Wivuvzo",
+    "state": "VT",
+    "zip": "61419"
+  },
+  "contact": {
+    "phone": "(867) 832-4396",
+    "servicePhone": "800951161"
+  },
+  "birthday": "1965-12-26T20:58:00.287Z",
+  "ip": "102.236.198.121",
+  "foo": "bar",
+  "profile": {
+    "about": "Kukas agu tavolzon nojemucus di lokwu hof bandabma ijasig gewen tu olejah usodup. Ni huvode begdo ti we ku iv kubbo oj uhitapi fuhfih igonotag. Kicsuje foudu fovaj negicca tutze one giupun wobum betiv ci casvuznu emedadi zu. Lofgo julaz kogmov zafaum gogva rupgithu savognon his nugjiow kufow wo ez ji evha.",
+    "bio": "Eje tobivefo wekoh muetno potiz hegjuk jo owziriz sav cil poh wamfibdob oba domugile nigem nel kofpabbid zi. Zo meuh milnev selini me ovwa mi hulcukuk has hig etfudno ewre wandimum nuw oharo rezsu. Gudifa uvudutjuc odcoc zuh obuuw ug kurwivzel ceh wiba jigurunam vufugabo zol. Bilatip ne jerapo wotenij lorbiivi sucri bol bev ase jumoba poote davme. Goepa jibne fum fotpuw gublolzem muzovvod ele ej degatul fazu nevuho weda uri jouz zisugri dugugjic no. Cot iforijomi ele jubowob lakebhe unlec wirojon be doj jaf jaz mopukota jiomhu. Gi aha zoufu aca becguji di kul ri sa se niwiwejeg ho."
+  },
+  "apiKey": "c4e4cabca1124c129090cb6cd1095bc5dd5ad60519d8652215b737b83b8fdecd",
+  "currency": {
+    "code": "SVC",
+    "name": "El Salvador Colon"
+  }
+}
