@@ -1,0 +1,26 @@
+{
+  "name": "Cory Ford",
+  "age": 26,
+  "address": {
+    "street": "Cishol Heights",
+    "city": "Fodifso",
+    "state": "NH",
+    "zip": "60653"
+  },
+  "contact": {
+    "phone": "(444) 286-9335",
+    "servicePhone": "800536925"
+  },
+  "birthday": "1999-09-22T08:15:40.124Z",
+  "ip": "18.81.89.195",
+  "foo": "bar",
+  "profile": {
+    "about": "Dun pendarluv fo bohzad faccathel veap ipadas jidi niwtov owuvu redoze wobugud mi nomsivono fajowtu. Fajvemek dil pokifume ow dahpidubu gom hoppo onekuwag mape nagi za howheka eseja dejimcu hoj ge ozfarnez neghecir. Juug ivaen so uvaru kenati iknaca ewa fetko fuafa va lugfula panatti fa omaupusan riaguive. Lem vojobma balirago eciko osezuran arwen fogic was fuobhiv vabeleilo jon ofu evpasmi zeltuni ejimu pesgon.",
+    "bio": "Mu heweh bu tedmovo poh bekulpe res cinosfed banoti ra bidi lomatbuw donsize te bijpocep eninutoj. Tekor cusoghe agova enu baj ohufa di maglinus pepsonum lejcub secin hukjoha. Su vikosiwob welni fisanij fiheeje joocji bazin utouvi zipi vu tosha tihdum duksazcow. Esem daz sifhi foj ifa wiuhiji lebo atfe refevwuz felugewe ago ze jisi carwol. Wizuj zenebdef riz gej pidzobde sit hepih suczak gugjelug gemgamcuw goow se humfihvot ta fuffiimu."
+  },
+  "apiKey": "699edbaeed7fa65b0757ea8eb0323e011e1c9381a623a86373bca28568c08170",
+  "currency": {
+    "code": "SBD",
+    "name": "Solomon Islands Dollar"
+  }
+}
