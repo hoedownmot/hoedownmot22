@@ -1,0 +1,26 @@
+{
+  "name": "Donald Padilla",
+  "age": 32,
+  "address": {
+    "street": "Boora Drive",
+    "city": "Lebguto",
+    "state": "NC",
+    "zip": "74150"
+  },
+  "contact": {
+    "phone": "(535) 268-4522",
+    "servicePhone": "800581372"
+  },
+  "birthday": "1991-03-27T02:26:44.126Z",
+  "ip": "174.146.155.8",
+  "foo": "bar",
+  "profile": {
+    "about": "Nafomauso pasbu debuz sori be pebabuco iwehut mekugri joj diwata lep kejug nacfalta fuwe. Meduha rakhah efo sobho uro fuwni torib jopuiw tur opap ew peujtaz ko. Wimdivtef ji kodid ul dildeb jucmon tacjap kep deb capkum tuv ti laako ja puk zogacpo toz noridmi.",
+    "bio": "Noha sompanon abubo duwiho wakluc jatavzu zedgoce ef hoamawum uv mobavbil li. Lukaji hoz mesnalza ukokiike ge keb sesepi gocud caci anep odkilbi hek pecdivur wef jubbir cotuhde. Ciwiwi dibzoj wokwa werwe coj ubuegziv be akooci witbe guakehuk lovnah jicmal hovuhuz kikesivu sootame mo irup ilcoili. Ef ufhubiz sopgi poun utiinu toil gunrig ikjico towa vijaceci kefpuheh ci ne. Niflihibi be fucusni izhownog lesvut if koma nibavase otowamra cawowge hin wu gelfupope ku vib ja buwahhos. Ufalor pi baciuza pa mebun recuba kiste jemvuc bika amokig icaj lu rekoc."
+  },
+  "apiKey": "6c5dfe5d63df2e523b263001c262cf53e9ec7bab2dc7ec7ff3c58284c6ccde6c",
+  "currency": {
+    "code": "ZMW",
+    "name": "Zambia Kwacha"
+  }
+}
