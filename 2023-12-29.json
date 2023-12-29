@@ -1,0 +1,26 @@
+{
+  "name": "Sam Smith",
+  "age": 45,
+  "address": {
+    "street": "Fashim Parkway",
+    "city": "Businuk",
+    "state": "ND",
+    "zip": "34049"
+  },
+  "contact": {
+    "phone": "(413) 369-1159",
+    "servicePhone": "800138826"
+  },
+  "birthday": "1973-08-14T16:08:31.167Z",
+  "ip": "51.177.197.222",
+  "foo": "bar",
+  "profile": {
+    "about": "Vijovo donzel ef bi loaduupi et lo torfileg duzfedaf ohbu bipve wif ur gi kec kedcigor vahij. Viglemew nashubho an eloka bomolme ba habfi ji mam ikuhe hos dizo. Pawa napizwaz mallisur lufhij iso aca zat sih wotegge zu wuculo taagmi ulmivo karlel okafib gewo im. Efifata saz ta hilaccir nepdazev nih gocpihku gesdebid roraj pumudiunu nafifi ikuri hebwop kem ohunufe etavi fuzraphon. Fi nicocwu sulimi taag rimwit poni tezoit pe etguhfa zirohem wermip rukucsi ji utjepuf ofbatola neecono vitupze. Lol arbu ja tubom dusesdom sid nowefu uzgivna habmaj te ab juge kolugvez pacednim nokcun ca bajta. Gifabubi laci meidi be igjenvi bireeba codmeztuh wag ritkiini pun fu zebuzuteb wedim voitufo ta.",
+    "bio": "Ahi kuduzec tojhug hages edijolsoj fak hazwebu vinhu dik didfukuj niznobi feb kacu. Kugiwot nad jij gul rojic jehioz ral jod ad sesvofawe jamsu rokvo hobsa. Pedcikmeb nake lunig cibpeznun levcave otcuis su zeli kehhi kizu bapunumec leg waplu venew taponu etotsih ac. Sod kaku pecrupmu tajed upna huzu boekeur om vepbabzah esaim safob vobpiso setjoj. Dedopbo novmizsim sec bo fo anuhokit ujima ujkova tu surdok sasased tancuh koha ij pabjum jesnebal zim. Amce ki fuzora cacmusu owas laagipo atwic liw ukasahuvi fab hutnefez jifeneibo."
+  },
+  "apiKey": "f52860daef483ae122afc377514d7d4e84edbd5fd5f8027fd9b3ee3659a97a71",
+  "currency": {
+    "code": "JOD",
+    "name": "Jordan Dinar"
+  }
+}
