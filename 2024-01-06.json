@@ -1,0 +1,26 @@
+{
+  "name": "Leon Farmer",
+  "age": 28,
+  "address": {
+    "street": "Samev Way",
+    "city": "Haezimi",
+    "state": "OK",
+    "zip": "63536"
+  },
+  "contact": {
+    "phone": "(341) 234-6428",
+    "servicePhone": "800923221"
+  },
+  "birthday": "1989-12-23T14:01:54.022Z",
+  "ip": "122.159.250.175",
+  "foo": "bar",
+  "profile": {
+    "about": "Iri hewagka neor cuzpom luubu sec duf pirkewri risletin kocwiuv gud rojatemew japfehpe vowhud ep. Ah guctuto zoel durlolu soj ritabipab dodajuv hu gagemlec wif suvjespo nu. Un sefu fo ot ehved ipnucok bowonu ci beciav nolvutono fusale pedmil.",
+    "bio": "Ibe suftac us hejri ukohavnep lohgi pifig poz lieco pahen jozvug tec jo neftu iv leh puhbu. Lekeg jibedizef jeevusug nejga liwnih ecige rokozo epe zabjuli subuga isetisoh ofa. Bigadeka ju nilbemsol mov se zizpiznur ottoob uja nuv ulupe teszonvor zo miwdaoro."
+  },
+  "apiKey": "d6bb84667249371a74d29f620ee73168045771a05bfef51d6a289d1ee986b208",
+  "currency": {
+    "code": "BZD",
+    "name": "Belize Dollar"
+  }
+}
