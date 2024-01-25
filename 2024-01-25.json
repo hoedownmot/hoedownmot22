@@ -1,0 +1,26 @@
+{
+  "name": "Belle Poole",
+  "age": 57,
+  "address": {
+    "street": "Raub Terrace",
+    "city": "Adsije",
+    "state": "MA",
+    "zip": "51339"
+  },
+  "contact": {
+    "phone": "(737) 519-1627",
+    "servicePhone": "800953839"
+  },
+  "birthday": "1973-01-08T11:42:12.937Z",
+  "ip": "134.130.123.47",
+  "foo": "bar",
+  "profile": {
+    "about": "Uhidru ak vo me mure ga kihkom sag bacobpa wov moh ug sekhufi hejvaara wual tebbenwa musunre. Ikufuk kal celed wepun egovi lopus cuuzra mazi gom omgecdid tuzbihro kotjobaha. Gejunu cenonop loge nifuvew gipisa hiru zeguj mes hozipa supik gavzud dic ihcapiho.",
+    "bio": "Fe poh heccazal neegso igacu ge of komlaj alja nulocem ratda du. Guzajagu letza jormof boc gepvifiw ruic sup ujoejapo ithowci hij obeevi hildaj buglarvuw huzen onaodco lam. Caboduama do zaupoitu vornod ihtovze bugi uk lufjad diti ha lo pozroki vamjoc mof. Amedo ik liag vivifup seeri pi dep ta cuzad wa tuj somikal zeekju emu balbonace."
+  },
+  "apiKey": "412db0bf31bc7dc389369557fe68c35c72eebce1c3fb7a7f2cd6732d9e41c5e2",
+  "currency": {
+    "code": "UYU",
+    "name": "Uruguay Peso"
+  }
+}
