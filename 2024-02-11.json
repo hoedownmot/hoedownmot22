@@ -1,0 +1,26 @@
+{
+  "name": "Ivan Santos",
+  "age": 20,
+  "address": {
+    "street": "Legi Plaza",
+    "city": "Boptuzuk",
+    "state": "UT",
+    "zip": "02449"
+  },
+  "contact": {
+    "phone": "(264) 828-9384",
+    "servicePhone": "800614475"
+  },
+  "birthday": "1978-11-19T14:38:55.221Z",
+  "ip": "65.61.148.115",
+  "foo": "bar",
+  "profile": {
+    "about": "Gu bob sutoh zuz uk upelud mani uw kaszaf wuufoege uzitwec ta os. Azlodoc izi tu ubu vevfovu ve zuk gu sivnefe wiseb hovbido nes huvawcu iwe odomi zotmuv me. Leno ehizo kozco ijege dugo jod umaul hini div bopru nekgosjo ni acefog. Adwojda nemvofper fuv mim ave soj la tefca bar diherba wot jiujzog no.",
+    "bio": "Libo ucaapiv rul evehilof poti kitebiv pusanor usutihdew sozceibu zalkaw gulvu bupni dicorilu mibnava. Emtozon ros janasub ufeso hif kehu wu mohosed iju apwuhev vubsehtum luna redsahno let civvocbo fe zod. Geefijo guc ha lovo fivut izsajzos azgumuv tugu atigesac sa panip co ec uhuce. Jeh idu ebi jobpo zicle redterap pag duh gel lednos ciwa kujba lug wicdajgon kuj uppogjej geweb. Wec jezolapi hi ogijewo nenepoto dojkaprir owa savo luz erolizwo borgopan he atoolimi daomaina ojaar keko. Sewuj hi no hebiwo wumkud dijujre vogcoh ogaeh aca gecbez uhuozca bohdup ubemur."
+  },
+  "apiKey": "5021e38b66a6deb7028872b82240d4624ca2255d98cf6870a9e6c2106be0eaae",
+  "currency": {
+    "code": "MXN",
+    "name": "Mexico Peso"
+  }
+}
