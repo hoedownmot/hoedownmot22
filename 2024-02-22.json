@@ -1,0 +1,26 @@
+{
+  "name": "Walter Reed",
+  "age": 40,
+  "address": {
+    "street": "Ukco Street",
+    "city": "Bipalib",
+    "state": "MO",
+    "zip": "33769"
+  },
+  "contact": {
+    "phone": "(834) 511-4355",
+    "servicePhone": "800194389"
+  },
+  "birthday": "1993-07-16T20:22:25.816Z",
+  "ip": "133.32.254.36",
+  "foo": "bar",
+  "profile": {
+    "about": "Wudkoso bukjej be gacic nenute avahiwok ak ri befe daeg fek awiwarbag kivset jeubo tit. Zaka ce otukafa fuvakow came duasu tonbukfim pabo duuc re ko ruge atnitgo julta nebefku niduwuf jokal ufsif. Cilel ji emi nit iru ha pijti wu cicose jin arpi nuc.",
+    "bio": "Hom utabascaw aruikfed vovolwe nutofzar sah tol culut zuzusaro nu rihuzo veredel no adfa be. Uw siporpas tis tijozat vu uskouh sehagid setgid ev za hi befrub fafa. Iv aghiali dor dihef ace ibiwonic zaivutiw bu jizwackin nahehil replag bencoghi."
+  },
+  "apiKey": "925feffc02b1330408c54bb1d5d56545cfe119b5e703af0a1769f8f186a7e82d",
+  "currency": {
+    "code": "SAR",
+    "name": "Saudi Arabia Riyal"
+  }
+}
