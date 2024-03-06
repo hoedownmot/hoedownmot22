@@ -1,0 +1,26 @@
+{
+  "name": "Jeremy McLaughlin",
+  "age": 20,
+  "address": {
+    "street": "Wave Heights",
+    "city": "Uvvitvot",
+    "state": "NH",
+    "zip": "84695"
+  },
+  "contact": {
+    "phone": "(864) 615-9616",
+    "servicePhone": "800145761"
+  },
+  "birthday": "1962-06-21T05:03:06.768Z",
+  "ip": "218.208.50.150",
+  "foo": "bar",
+  "profile": {
+    "about": "Hucegi dam uvi gu haf muzma oneivuwaw uzaaf huabeku cor wom pi guwef rovraepi wa. Up huvojol nic kediiw rojbarov diip utmibin narermo dozehcoh isru nefce ofevha cogi bem. Wabto do hovefo niljat edhanu zoh elesak aboh munsepi gir hazesa ih ul ka pijewevo vikki firrueri.",
+    "bio": "Fihar ucoam celpi ewbu ceguvfa sajelev kes enguh fu vozade zoj ipekufpir. Po owujuso betarfim edivebgi seiwob binbufwu kog tatocac pudnik ikezapog mufika donu muokpew igedu. Hep so kisju recevido duwriih nelzel nev nezucu howon jati vomoto osi ezafoci zouneji lam."
+  },
+  "apiKey": "3e7070fa4b82d81a46220917b199d415cb70929e725171ce4debd1c89c8a8431",
+  "currency": {
+    "code": "XOF",
+    "name": "Communauté Financière Africaine (BCEAO) Franc"
+  }
+}
