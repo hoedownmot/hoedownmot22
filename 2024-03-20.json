@@ -1,0 +1,26 @@
+{
+  "name": "Alan Carpenter",
+  "age": 28,
+  "address": {
+    "street": "Otiama Lane",
+    "city": "Hakdesu",
+    "state": "ME",
+    "zip": "86786"
+  },
+  "contact": {
+    "phone": "(411) 548-3490",
+    "servicePhone": "800182497"
+  },
+  "birthday": "1974-10-06T11:24:20.401Z",
+  "ip": "58.19.78.50",
+  "foo": "bar",
+  "profile": {
+    "about": "Da wagjuzuja sake pe ulcimjid kite voznewo zac igukok liohsaz romni me nihto. Lub otegegez tac gulkatgaj molobwes oluhivos seivelej nossuzi wimpain kih nut uki tevcuisi ceg luga cavhakfun woslo iruvi. Fev uh fengufoci nuho moz tegtul abdige ezmiow wanwegiz ateod fiwasomot jefpev obcuv nudijo.",
+    "bio": "Tuwmivaj cuknorri padunfu nucnagju is agfuag hutoraj sole ukahe wop vufpu isepiv deviw ri poh temezur tebapuaga wiv. Ado ezmik bo va sinod rufdokpo lolha armep juvo fevod ato koafo vazroz. Mifihe osce bu eknop ragluv seifipov jow veazmov awagabus etmonrol ale izimuhkag fuen."
+  },
+  "apiKey": "9212d321982038a2b127a12eb96f6ede0f7f386ad6319f601c5b132c95d35c0e",
+  "currency": {
+    "code": "TND",
+    "name": "Tunisia Dinar"
+  }
+}
